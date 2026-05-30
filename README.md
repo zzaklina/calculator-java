@@ -1,6 +1,6 @@
 # Izveštaj - Metrika i statička analiza
 
-## LOC (Lines of Code)
+## LOC
 Ukupan broj linija koda u projektu Start.java: 21 linija
 Ukupan broj linija koda u projektu Calculator.java: 168 linija
 
